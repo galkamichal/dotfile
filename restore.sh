@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp ~/.zshrc .
+cp .zshrc ~/.zshrc
